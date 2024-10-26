@@ -1,0 +1,20 @@
+# Proyecto de Calculadora CGI en Perl
+Este proyecto consiste en una calculadora básica implementada utilizando CGI en Perl, con una interfaz web utilizando HTML y CSS.
+1. **Construir la Imagen Docker**
+
+```bash
+docker build -t perl-cgi-calculator .
+```
+2. **Ejecutar el Contenedor**
+
+```bash
+docker run -p 8094:80 perl-cgi-calculator
+```
+3. **Acceder a la Calculadora**
+
+Abre un navegador web y accede a la siguiente URL para utilizar la calculadora:
+
+[http://127.0.0.1:8094]
+
+
+
