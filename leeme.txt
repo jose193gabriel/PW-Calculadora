@@ -16,5 +16,8 @@ Abre un navegador web y accede a la siguiente URL para utilizar la calculadora:
 
 [http://127.0.0.1:8094]
 
+Informe del proyecto:
+
+https://github.com/jose193gabriel/INFORME-CALCULADORA
 
 
